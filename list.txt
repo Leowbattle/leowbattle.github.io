@@ -1,8 +1,6 @@
 https://github.com/Leowbattle/compilers-labs
-https://github.com/Leowbattle/gameservertest
 https://github.com/Leowbattle/hash_test
 https://github.com/Leowbattle/http_from_scratch
-https://github.com/Leowbattle/Minecraft
 https://github.com/Leowbattle/GJK2D
 https://github.com/Leowbattle/SuperBrummieKart
 https://github.com/Leowbattle/Renderer
